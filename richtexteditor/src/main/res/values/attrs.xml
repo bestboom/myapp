@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditorTools">
+        <attr name="foregroundColor" format="color" />
+        <attr name="backgroundColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="Editor">
+        <attr name="placeholder" format="string" />
+        <attr name="editorBackground" format="color" />
+        <attr name="editorPadding" format="dimension"/>
+    </declare-styleable>
+</resources>

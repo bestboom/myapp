@@ -1,0 +1,51 @@
+{
+  "operations": [
+    {
+      "active_votes": [],
+      "author": "tophash",
+      "body": "Hmmm",
+      "id": 0,
+      "json_metadata": "{\"community\": \"dlike\"}",
+      "net_votes": 0,
+      "parent_author": "thunya",
+      "parent_permlink": "totally-cool-diy-barbie-hacks-and-crafts-",
+      "permlink": "tophash8-26-2018-08-58-951",
+      "title": ""
+    },
+    {
+      "allow_curation_rewards": true,
+      "allow_votes": true,
+      "author": "tophash",
+      "beneficiaries": [
+        {
+          "account": "dlike",
+          "weight": 9
+        },
+        {
+          "account": "dlike.fund",
+          "weight": 1
+        }
+      ],
+      "extensions": [
+        [
+          0,
+          {
+            "beneficiaries": [
+              {
+                "account": "dlike",
+                "weight": 9
+              },
+              {
+                "account": "dlike.fund",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      ],
+      "max_accepted_payout": "0.000 SBD",
+      "percent_steem_dollars": 10000,
+      "permlink": "tophash8-26-2018-08-58-951"
+    }
+  ]
+}

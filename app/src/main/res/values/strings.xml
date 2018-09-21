@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">DLIKE</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="connection_error_please_try_again">Connection Error! Please try again!</string>
+    <string name="login_with_steem_connect">Login with Steem Connect</string>
+    <string name="dont_have_an_account">Don\'t have an account? Sign up</string>
+    <string name="dialog_vote_title">How much do you want to vote?</string>
+    <string name="cancel">Never mind</string>
+    <string name="vote">Vote</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="voting_failed">Error occured while voting. Please try again!</string>
+    <string name="comment">Comment</string>
+    <string name="reply">Reply</string>
+    <string name="already_voted">You have already voted for this post.</string>
+    <string name="commenting_error">Unable to comment. Please try again!</string>
+    <string name="commenting_success">Comment Successfully Posted</string>
+    <string name="post_hint">What\'s happening?</string>
+    <string name="post">Post</string>
+    <string name="dialog_title_discard_post">Confirm</string>
+    <string name="dialog_message_discard_post">Do you want to discard this post?</string>
+    <string name="discard">Discard</string>
+    <string name="community">Community</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="account">Account</string>
+    <string name="login_or_register">Login or Signup</string>
+    <string name="dialog_message_save_as_draft">Do you want to save as draft?</string>
+    <string name="save_draft">Save draft</string>
+    <string name="schedule">Schedule</string>
+
+    <string-array name="category">
+        <item>Category 1</item>
+        <item>Category 2</item>
+        <item>Category 3</item>
+    </string-array>
+
+    <string-array name="reward">
+        <item>Default (50%)</item>
+        <item>Sub (25%)</item>
+        <item>Full (75%)</item>
+    </string-array>
+
+</resources>
