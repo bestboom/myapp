@@ -93,6 +93,7 @@ public class PostsFragment extends Fragment {
         Log.e("PFFF", body);
 
         if (more && !postsAdapter.getDiscussions().isEmpty()) {
+
             Discussion discussion = postsAdapter.getDiscussions().get(postsAdapter.getDiscussions().size() - 1);
             body = "{\"tag\": \"dlike\", \"limit\": " + LIMIT_PER_FETCH + ", \"start_author\": \"" + discussion.author + "\", \"start_permlink\": \"" + discussion.permLink + "\"}";
         }
